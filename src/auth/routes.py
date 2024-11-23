@@ -106,7 +106,8 @@ async def create_user_acccount(
 
     message = create_message_new(subject="Verify your email")
 
-    send_mail.delay(email, message, html_message)
+    # send_mail.delay(email, message, html_message)
+    bg_tasks.add_task(send_email,message, email, html_message)
 
     return {
         "message": "Account Created! Check email to verify your account.",
