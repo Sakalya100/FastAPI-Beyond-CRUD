@@ -14,6 +14,7 @@ It is hosted on Render under a free-tier plan just for learning purposes. You ca
 3. [Project Setup](#project-setup)
 4. [Running the Application](#running-the-application)
 5. [Running Tests](#running-tests)
+6. [Notes](#Notes)
 
 ## Getting Started
 Follow the instructions below to set up and run your FastAPI project.
@@ -75,3 +76,5 @@ Run the tests using this command
 pytest
 ```
 
+## Notes
+I have created a comprehensive set of notes while learning capturing almost all the important topics from the video. You can check it out here in the published [Blog](https://www.notion.so/neuralnomad/Advanced-FastAPI-Tutorial-11a60f647adc80fb996aef517211dc77).
