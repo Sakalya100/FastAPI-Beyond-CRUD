@@ -77,4 +77,4 @@ pytest
 ```
 
 ## Notes
-I have created a comprehensive set of notes while learning capturing almost all the important topics from the video. You can check it out here in the published [Blog](https://www.notion.so/neuralnomad/Advanced-FastAPI-Tutorial-11a60f647adc80fb996aef517211dc77).
+I have created a comprehensive set of notes while learning capturing almost all the important topics from the video. You can check it out here in the published [Blog](https://neuralnomad.notion.site/Advanced-FastAPI-14760f647adc8140b946f30a5b4e41ec).
