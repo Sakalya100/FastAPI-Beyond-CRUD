@@ -1,4 +1,4 @@
-# FastAPI-Beyond-CRUD
+# FastAPI-Beyond-CRUD - Dev
 The entire project developed while learning the advanced concepts of FastAPI
 
 For more details, visit the project's [website](https://jod35.github.io/fastapi-beyond-crud-docs/site/).
